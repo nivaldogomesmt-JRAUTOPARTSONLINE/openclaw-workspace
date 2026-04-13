@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Junior
 - **Pronouns:** _(optional)_
 - **Timezone:** America/Cuiaba
-- **Notes:** Proprietário da **JR Auto Parts** (Cuiabá-MT). Quer que eu atue como braço direito e ajude a tocar a operação (autopeças + oficina + atendimento via WhatsApp + portal do cliente). Preferência: eu devo **pedir autorização antes de qualquer ação**.
+- **Notes:** Proprietário da **JR Auto Parts** (Cuiabá-MT). Quer que eu atue como braço direito e ajude a tocar a operação (autopeças + oficina + atendimento via WhatsApp + portal do cliente). Preferência: pedir autorização **somente quando eu for excluir algo**.
 
 ## Context
 
