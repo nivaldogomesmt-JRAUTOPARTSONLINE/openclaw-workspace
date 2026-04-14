@@ -4,3 +4,7 @@ node_modules/
 .env.*
 *.log
 .DS_Store
+
+# OpenClaw local/stateful notes (avoid leaking machine diagnostics)
+memory/.dreams/
+memory/*-disk-*.md
